@@ -32,6 +32,8 @@ Ensuite rendez-vous sur : https://beta.openai.com/ pour vous fournir la clé API
 Quand vous avez votre clé, il faut la mettre sur le fichier .env avec comme variable :
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="OPENAI_API_KEY= ><pre lang="text" class="notranslate"><code>OPENAI_API_KEY= 
 </code></pre></div>   
+<br> Et pour finir : 
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="php artisan serve"><pre>php artisan serve</pre></div>
 
 
 
