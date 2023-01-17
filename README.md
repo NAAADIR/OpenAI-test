@@ -15,6 +15,8 @@ C'est une petite application qui permet de définir un profil en fonction de ce 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="composer install"><pre>composer install</pre></div>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="cp .env.example .env"><pre>cp .env.example .env</pre></div>
 
+Choisir entre les deux teams :
+
 TEAM YARN :
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="yarn install"><pre>yarn install</pre></div>
@@ -25,6 +27,12 @@ TEAM NPM :
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm run install"><pre>npm run install</pre></div>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm run build"><pre>npm run build</pre></div>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm run dev"><pre>npm run dev</pre></div>
+
+Ensuite rendez-vous sur : https://beta.openai.com/ pour vous fournir la clé API 
+Quand vous avez votre clé, il faut la mettre sur le fichier .env avec comme variable :
+OPENAI_API_KEY= 
+Et amusez-vous
+
 
 
 
