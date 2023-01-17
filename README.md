@@ -33,8 +33,6 @@ Quand vous avez votre clé, il faut la mettre sur le fichier .env avec comme var
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="OPENAI_API_KEY= ><pre lang="text" class="notranslate"><code>OPENAI_API_KEY= 
 </code></pre></div>   
 
-Et amusez-vous
-
 
 
 
